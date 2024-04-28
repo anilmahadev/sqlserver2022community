@@ -2,8 +2,8 @@
 
 Pull the image 
 
-**docker pull anilmahadev/sqlserver2022community
-**
+**docker pull anilmahadev/sqlserver2022community**
+
 Run the image
 
 **docker run -e "ACCEPT_EULA=Y" -e "MSSQL_SA_PASSWORD=P@ssw0rd1234" -p 1433:1433 -d anilmahadev/sqlserver2022community:latest**
