@@ -10,6 +10,9 @@ Run the image
 
 Connect to SSMS
 
-**hostname: localhost SQL Auth: Username: sa Password: P@ssw0rd1234 --> Change and disable the SA user after creating another SYSADMIN user. Encryption: Mandatory**
+**hostname: localhost 
+SQL Auth: Username: sa 
+Password: P@ssw0rd1234 --> Change and disable the SA user after creating another SYSADMIN user. 
+Encryption: Mandatory**
 
 Enjoy!!
